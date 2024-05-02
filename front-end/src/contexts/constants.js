@@ -1,4 +1,4 @@
-export const apiUrl = 'https://deploytest-v6ey.onrender.com/'
+export const apiUrl = 'https://deploytest-v6ey.onrender.com'
 
 export const LOCAL_URL = 'http://localhost:3000'
 
